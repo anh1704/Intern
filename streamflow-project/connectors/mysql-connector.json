@@ -9,6 +9,8 @@
     "database.user": "admin",
     "database.password": "anh0174",
 
+    "decimal.handling.mode": "double",
+
     "database.server.id": "184054",
     "topic.prefix": "logistics",
 

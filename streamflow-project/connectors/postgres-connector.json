@@ -10,6 +10,8 @@
     "database.password": "anh0174",
     "database.dbname": "ecommerce",
 
+    "decimal.handling.mode": "double",
+
     "topic.prefix": "ecommerce",
 
     "plugin.name": "pgoutput",
